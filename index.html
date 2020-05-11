@@ -1,0 +1,1 @@
+conole.log(1)
